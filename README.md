@@ -1,11 +1,1 @@
-Olá, meu nome é Eduardo Borges. 
-
-Sou um desenvolvedor de sites legais
-
-Sou um desenvolvedor iniciante que faz apenas projetos pessoais, no futuro espero usar esse GitHub para salvar meus grandes projetos
-
-🌍 Moro no Brasil
-🖥️ Veja meu portfólio em Portfólio
-✉️ Você pode entrar em contato comigo em duduborges333969@gmail.com
-🧠 Estou aprendendo React TSX
-🤝 Estou aberto a colaborar em Projetos simples
+Olá! ================================================= ================================================= ====================== Sou um desenvolvedor de sites legais ---------------------- -------------- Sou um desenvolvedor iniciante que faz apenas projetos pessoais, no futuro espero usar esse GitHub para salvar meus grandes projetos * 🌍 Moro no Brasil * 🖥️ Veja meu portfólio em [ Portfólio](http://https://duduborgesestudante.github.io/portfolio/index.html) * ✉️ Você pode entrar em contato comigo em [duduborges333969@gmail.com](mailto:duduborges333969@gmail.com) * 🧠 Eu' estou aprendendo React TSX * 🤝 Estou aberto a colaborar em Projetos simples
