@@ -7,9 +7,9 @@ Sou um desenvolvedor de sites legais
 Sou um desenvolvedor iniciante que faz apenas projetos pessoais, no futuro espero usar esse GitHub para salvar meus grandes projetos
 
 *   🌍 Moro no Brasil
-*   🖥️ Veja meu portfólio em [Portfólio](http://https://duduborgesestudante.github.io/portfolio/index.html)[](http://https://duduborgesestudante.github.io/portfolio/index.html)
-*   🧠 Estou aprendendo React TSX
-*   🤝 Estou aberto a colaborar em Projetos simples
+*   🖥️ Veja meu portfólio em [Portfólio](eduardo-borges.dev.br)
+*   🧠 Estou estudando sobre Inteligencia Artificial
+*   🤝 Estou aberto a colaborar em Projetos 
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/])
