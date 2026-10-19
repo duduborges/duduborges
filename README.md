@@ -1,8 +1,8 @@
-<h1 align="center">Oi, eu sou o Eduardo Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
+<h1 align="center">E aí, eu sou o Dudu <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
 <p align="center">
-  <b>Dev que transforma IA em coisa que funciona de verdade.</b><br/>
-  Crio sites, automações e agentes de IA que tiram trabalho chato das costas das pessoas.
+  <b>O cara que manda na TI da Produtive.</b><br/>
+  Se quebrou, eu conserto. Se é manual, eu automatizo. Se não existe, eu construo. 🛠️
 </p>
 
 <p align="center">
@@ -14,27 +14,36 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Quem é esse cara
 
-Comecei fazendo sites por diversão e hoje meu foco é juntar desenvolvimento web com inteligência artificial. Gosto de pegar um processo manual, entender onde ele trava e construir algo que resolva: uma landing page que converte, um agente que pesquisa e escreve por você, uma automação que roda sozinha enquanto você dorme.
+Comecei fazendo sitezinho por diversão e, quando vi, tava cuidando da TI inteira de uma empresa. Hoje passo o dia entre código, IA e café, transformando ideia solta em produto rodando em produção.
 
-- 🤖 Construo agentes e automações com IA (LLMs, Claude, fluxos com várias etapas)
-- 🌐 Desenvolvo sites e landing pages rápidas, bonitas e pensadas para converter
-- ⚡ Curto entregar rápido, testar com gente de verdade e ir melhorando
+- 🧠 Lidero a TI da **Produtive**
+- 🤖 Viciado em IA: agentes, automações e tudo que tire trabalho chato das costas das pessoas
+- ⚡ Prefiro colocar no ar rápido e ir melhorando do que ficar meses polindo no escuro
 - 🇧🇷 Direto do Brasil
-- 🤝 Aberto a parcerias, freelas e projetos interessantes. Só chamar!
+- 🤝 Bora trocar ideia? Meus contatos estão logo ali em cima
 
-### 🛠️ Ferramentas do dia a dia
+### 🏆 Coisas que eu fiz e me orgulho
+
+| Projeto | O que é |
+|---|---|
+| 📨 **Sendpub** | Plataforma que eu tirei do zero e coloquei no mundo |
+| 💸 **Hubfi** | Tecnologia por trás da operação da Hubfi, do back até a tela |
+
+*E tem coisa nova saindo do forno... 👀*
+
+### 🛠️ Minha caixa de ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,vercel,html,css,git,linux&perline=6" />
 </p>
 
-### 📊 Números
+### 📊 Uns números aí
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact&hide_border=true" />
 </p>
 
-<p align="center"><i>"Se dá pra automatizar, eu vou automatizar."</i></p>
+<p align="center"><i>"Se dá pra automatizar, eu vou automatizar."</i> ☕</p>
