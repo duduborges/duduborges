@@ -1,47 +1,40 @@
-Olá, meu nome é Eduardo Borges. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==========================================================================================================================================
+<h1 align="center">Oi, eu sou o Eduardo Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
-Sou um desenvolvedor de sites legais
-------------------------------------
-
-Sou um desenvolvedor iniciante que faz apenas projetos pessoais, no futuro espero usar esse GitHub para salvar meus grandes projetos
-
-*   🌍 Moro no Brasil
-*   🖥️ Veja meu portfólio em [Portfólio](eduardo-borges.dev.br)
-*   🧠 Estou estudando sobre Inteligencia Artificial
-*   🤝 Estou aberto a colaborar em Projetos 
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/])
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/borges.ip/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duduborges333969@gmail.com)
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://pt-br.legacy.reactjs.org/" target="_blank"> 
-    <img alt="react simple icons" src="https://github.com/icons-pack/react-simple-icons/blob/main/docs/images/svg/react-simple-icons.svg"   width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <b>Dev que transforma IA em coisa que funciona de verdade.</b><br/>
+  Crio sites, automações e agentes de IA que tiram trabalho chato das costas das pessoas.
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact" />
+<p align="center">
+  <a href="https://eduardo-borges.dev.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/borges.ip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:duduborges333969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+### 🚀 Sobre mim
+
+Comecei fazendo sites por diversão e hoje meu foco é juntar desenvolvimento web com inteligência artificial. Gosto de pegar um processo manual, entender onde ele trava e construir algo que resolva: uma landing page que converte, um agente que pesquisa e escreve por você, uma automação que roda sozinha enquanto você dorme.
+
+- 🤖 Construo agentes e automações com IA (LLMs, Claude, fluxos com várias etapas)
+- 🌐 Desenvolvo sites e landing pages rápidas, bonitas e pensadas para converter
+- ⚡ Curto entregar rápido, testar com gente de verdade e ir melhorando
+- 🇧🇷 Direto do Brasil
+- 🤝 Aberto a parcerias, freelas e projetos interessantes. Só chamar!
+
+### 🛠️ Ferramentas do dia a dia
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,vercel,html,css,git,linux&perline=6" />
+</p>
+
+### 📊 Números
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact&hide_border=true" />
+</p>
+
+<p align="center"><i>"Se dá pra automatizar, eu vou automatizar."</i></p>
