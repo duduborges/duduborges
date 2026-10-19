@@ -1,47 +1,35 @@
-Olá, meu nome é Eduardo Borges. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==========================================================================================================================================
+<h1 align="center">E aí, eu sou o Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
-Sou um desenvolvedor de sites legais
-------------------------------------
-
-Sou um desenvolvedor iniciante que faz apenas projetos pessoais, no futuro espero usar esse GitHub para salvar meus grandes projetos
-
-*   🌍 Moro no Brasil
-*   🖥️ Veja meu portfólio em [Portfólio](eduardo-borges.dev.br)
-*   🧠 Estou estudando sobre Inteligencia Artificial
-*   🤝 Estou aberto a colaborar em Projetos 
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/])
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/borges.ip/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duduborges333969@gmail.com)
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://pt-br.legacy.reactjs.org/" target="_blank"> 
-    <img alt="react simple icons" src="https://github.com/icons-pack/react-simple-icons/blob/main/docs/images/svg/react-simple-icons.svg"   width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <a href="https://eduardo-borges.dev.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/borges.ip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:duduborges333969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact" />
+Hoje eu cuido da TI da **Produtive**. Na prática isso quer dizer que se alguma coisa quebra, me chamam. Se alguém tá fazendo a mesma tarefa na mão pela décima vez, eu tento automatizar. E se a ideia ainda não existe, a gente senta e faz.
+
+Comecei mexendo com site por curiosidade, sem muita pretensão. Fui pegando gosto, um projeto puxou o outro, e quando percebi já tava colocando produto de verdade no ar, com gente de verdade usando. Ultimamente tô bem enfiado em IA, montando agentes e automações pra tirar trabalho chato do caminho.
+
+### Umas coisas que eu fiz
+
+**[Sendpub](https://sendpub.com)**: junta WhatsApp, Instagram, Messenger, chat do site e e-mail numa caixa de entrada só. Tem um agente de IA que responde o cliente 24h, marca horário, consulta sistema e só chama a equipe quando precisa. Meu orgulho é ver agendamento sendo feito 23h47 sem ninguém da equipe acordado.
+
+**[Hubfie](https://hubfie.com)**: plataforma pra afiliado. Dá pra achar produto pra vender, montar presell sem saber programar e cuidar dos pixels, tudo no mesmo lugar.
+
+Tem mais uma coisa vindo aí, mas ainda não posso contar 👀
+
+### O que eu uso no dia a dia
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,vercel,html,css,git,linux&perline=6" />
+</p>
+
+### Se quiser trocar uma ideia
+
+Pode me chamar em qualquer um dos links lá em cima. Curto conversar sobre IA, produto, automação ou só sobre algum projeto doido que você esteja tocando.
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact&hide_border=true" />
 </p>
