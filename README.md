@@ -13,7 +13,7 @@ Comecei mexendo com site por curiosidade, sem muita pretensão. Fui pegando gost
 
 ### Umas coisas que eu fiz
 
-**[Sendpub](https://sendpub.com)**: tirei do papel e coloquei no ar. Um dos projetos que mais me ensinou.
+**[Sendpub](https://sendpub.com)**: junta WhatsApp, Instagram, Messenger, chat do site e e-mail numa caixa de entrada só. Tem um agente de IA que responde o cliente 24h, marca horário, consulta sistema e só chama a equipe quando precisa. Meu orgulho é ver agendamento sendo feito 23h47 sem ninguém da equipe acordado.
 
 **[Hubfie](https://hubfie.com)**: plataforma pra afiliado. Dá pra achar produto pra vender, montar presell sem saber programar e cuidar dos pixels, tudo no mesmo lugar.
 
