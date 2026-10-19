@@ -1,4 +1,4 @@
-<h1 align="center">E aí, eu sou o Dudu <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
+<h1 align="center">E aí, eu sou o Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
 <p align="center">
   <b>O cara que manda na TI da Produtive.</b><br/>
@@ -28,8 +28,8 @@ Comecei fazendo sitezinho por diversão e, quando vi, tava cuidando da TI inteir
 
 | Projeto | O que é |
 |---|---|
-| 📨 **Sendpub** | Plataforma que eu tirei do zero e coloquei no mundo |
-| 💸 **Hubfi** | Tecnologia por trás da operação da Hubfi, do back até a tela |
+| 📨 **[Sendpub](https://sendpub.com)** | Plataforma que eu tirei do zero e coloquei no mundo |
+| 🎯 **[Hubfie](https://hubfie.com)** | Plataforma pra afiliados minerarem produtos, montarem presells sem código e gerenciarem pixels, tudo num lugar só |
 
 *E tem coisa nova saindo do forno... 👀*
 
