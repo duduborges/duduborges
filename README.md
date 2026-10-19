@@ -1,49 +1,35 @@
 <h1 align="center">E aí, eu sou o Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
 <p align="center">
-  <b>O cara que manda na TI da Produtive.</b><br/>
-  Se quebrou, eu conserto. Se é manual, eu automatizo. Se não existe, eu construo. 🛠️
-</p>
-
-<p align="center">
   <a href="https://eduardo-borges.dev.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/borges.ip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:duduborges333969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+Hoje eu cuido da TI da **Produtive**. Na prática isso quer dizer que se alguma coisa quebra, me chamam. Se alguém tá fazendo a mesma tarefa na mão pela décima vez, eu tento automatizar. E se a ideia ainda não existe, a gente senta e faz.
 
-### 🚀 Quem é esse cara
+Comecei mexendo com site por curiosidade, sem muita pretensão. Fui pegando gosto, um projeto puxou o outro, e quando percebi já tava colocando produto de verdade no ar, com gente de verdade usando. Ultimamente tô bem enfiado em IA, montando agentes e automações pra tirar trabalho chato do caminho.
 
-Comecei fazendo sitezinho por diversão e, quando vi, tava cuidando da TI inteira de uma empresa. Hoje passo o dia entre código, IA e café, transformando ideia solta em produto rodando em produção.
+### Umas coisas que eu fiz
 
-- 🧠 Lidero a TI da **Produtive**
-- 🤖 Viciado em IA: agentes, automações e tudo que tire trabalho chato das costas das pessoas
-- ⚡ Prefiro colocar no ar rápido e ir melhorando do que ficar meses polindo no escuro
-- 🇧🇷 Direto do Brasil
-- 🤝 Bora trocar ideia? Meus contatos estão logo ali em cima
+**[Sendpub](https://sendpub.com)**: tirei do papel e coloquei no ar. Um dos projetos que mais me ensinou.
 
-### 🏆 Coisas que eu fiz e me orgulho
+**[Hubfie](https://hubfie.com)**: plataforma pra afiliado. Dá pra achar produto pra vender, montar presell sem saber programar e cuidar dos pixels, tudo no mesmo lugar.
 
-| Projeto | O que é |
-|---|---|
-| 📨 **[Sendpub](https://sendpub.com)** | Plataforma que eu tirei do zero e coloquei no mundo |
-| 🎯 **[Hubfie](https://hubfie.com)** | Plataforma pra afiliados minerarem produtos, montarem presells sem código e gerenciarem pixels, tudo num lugar só |
+Tem mais uma coisa vindo aí, mas ainda não posso contar 👀
 
-*E tem coisa nova saindo do forno... 👀*
-
-### 🛠️ Minha caixa de ferramentas
+### O que eu uso no dia a dia
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,supabase,vercel,html,css,git,linux&perline=6" />
 </p>
 
-### 📊 Uns números aí
+### Se quiser trocar uma ideia
+
+Pode me chamar em qualquer um dos links lá em cima. Curto conversar sobre IA, produto, automação ou só sobre algum projeto doido que você esteja tocando.
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=duduborges&theme=react&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduborges&theme=react&layout=compact&hide_border=true" />
 </p>
-
-<p align="center"><i>"Se dá pra automatizar, eu vou automatizar."</i> ☕</p>
