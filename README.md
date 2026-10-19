@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o Borges <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32"/></h1>
 
 <p align="center">
-  <a href="https://eduardo-borges.dev.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://eduardoborges.dev.br"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eduardo-borges-cambraia-809225269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/borges.ip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:duduborges333969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eduardoborges.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:eduardo@produtive.ai"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge"/></a>
 </p>
 
 Sou responsável pela área de TI da **Produtive**, onde cuido da infraestrutura, do desenvolvimento dos produtos e das automações internas.
